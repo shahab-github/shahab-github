@@ -3,7 +3,7 @@
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
 - 👋 Hi there, I’m Shahabuddin Mohammed
-- 👀 I’m Devops engineering with over 6 years of work experience
+- 👀 I’m Devops engineering with over 8 years of work experience
 - 🌱 I’m currently learning and implementing DevSecOps
 - 💞️ I’m looking to collaborate and make connections!
 - 📫 How to reach me shahbuddinm679@gmail.com
